@@ -1,0 +1,10 @@
+[package]
+name = "nab"
+version = "0.1.0"
+authors = ["Joshua Barretto <joshua.s.barretto@gmail.com>"]
+edition = "2018"
+description = "A macro to extract data from an enum variant"
+readme = "README.md"
+license = "Apache-2.0 AND MIT"
+
+[dependencies]
